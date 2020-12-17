@@ -2,7 +2,7 @@
 ### Оренчук Олег
 * Клонувати репозиторій
     ```
-    git clone https://github.com/OlehOrenchuk/Flask-project.git
+    git clone https://github.com/OlehOrenchuk/Pipenv-WSGI.git
     ``` 
 
 * Створити віртуальне середовище 
